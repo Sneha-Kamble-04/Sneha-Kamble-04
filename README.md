@@ -3,7 +3,6 @@
 <h3 align="center">Passionate software developer skilled in Python, JavaScript, and Java. Committed to crafting elegant solutions and fostering collaboration on GitHub.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sneha-Kamble-04](https://github.com/Sneha-Kamble-04)
 
 - 📫 How to reach me **ksnehakirti123@gmail.com**
