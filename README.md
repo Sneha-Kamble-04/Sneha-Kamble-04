@@ -29,4 +29,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sneha-kamble-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### MY Contribucation 
-![Snake animation](https://github.com/jaisualad1246/sneha-kamble-04/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sneha-kamble-04/sneha-kamble-04/blob/output/github-contribution-grid-snake.svg)
