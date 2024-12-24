@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<div align="center"> <img src="file:///C:/Users/expert/Pictures/profile.webp"> </div>
 <h3 align="center">Passionate software developer skilled in Python, JavaScript, and Java. Committed to crafting elegant solutions and fostering collaboration on GitHub.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-kamble-04" alt="sneha-kamble-04" /></a> </p>
