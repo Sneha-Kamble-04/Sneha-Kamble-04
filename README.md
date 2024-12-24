@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Sneha-Kamble-04/Sneha-Kamble-04/refs/heads/main/profile.webp"> </div>
+<div align="center"> <img src="[https://raw.githubusercontent.com/Sneha-Kamble-04/Sneha-Kamble-04/refs/heads/main/profile.webp](https://raw.githubusercontent.com/Sneha-Kamble-04/Sneha-Kamble-04/refs/heads/main/profile.webp)"> </div>
 <h3 align="center">Passionate software developer skilled in Python, JavaScript, and Java. Committed to crafting elegant solutions and fostering collaboration on GitHub.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-kamble-04" alt="sneha-kamble-04" /></a> </p>
