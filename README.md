@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
-<div align="center"> <img src="file:///C:/Users/User/OneDrive/Pictures/DALL%C2%B7E%202024-12-25%2013.41.42%20-%20A%20minimalist%20and%20abstract%20LinkedIn%20banner%20design%20for%20a%20Python%20Developer%20and%20passionate%20IT%20professional%20named%20Sneha%20K.%20Kamble.%20The%20design%20features%20a%20sl.webp"> </div>
+<div align="center"> <img src="https://github.com/Sneha-Kamble-04/Sneha-Kamble-04/blob/main/profile.jpg"> </div>
 <h3 align="center">Passionate software developer skilled in Python, JavaScript, and Java. Committed to crafting elegant solutions and fostering collaboration on GitHub.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
