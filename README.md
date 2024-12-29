@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
+<h1 align="center">Hi 👋, I'm Sneha K. Kamble</h1>
+<h3 align="center">A passionate Python Developer from India</h3>
 <div align="center"> <img src="https://github.com/Sneha-Kamble-04/Sneha-Kamble-04/blob/main/profile.jpg"> </div>
 <h3 align="center">Passionate software developer skilled in Python, JavaScript, and Java. Committed to crafting elegant solutions and fostering collaboration on GitHub.</h3>
 
